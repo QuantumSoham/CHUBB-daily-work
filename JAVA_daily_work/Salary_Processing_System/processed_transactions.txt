@@ -1,0 +1,25 @@
+Processed Transactions:
+TXN001 | SUCCESS | 50000.0
+TXN005 | SUCCESS | 48000.0
+TXN002 | SUCCESS | 45000.0
+TXN003 | SUCCESS | 40000.0
+TXN004 | SUCCESS | 60000.0
+TXN006 | SUCCESS | 55000.0
+TXN009 | SUCCESS | 41000.0
+TXN010 | SUCCESS | 42000.0
+TXN008 | SUCCESS | 39000.0
+TXN007 | SUCCESS | 47000.0
+
+Final Company Balance: 533000.0
+
+Employee Balances:
+Sam Hunt | Acc: 1008 | Balance: 39000.0
+Rita Paul | Acc: 1007 | Balance: 47000.0
+Kevin Lee | Acc: 1006 | Balance: 55000.0
+Daisy Ray | Acc: 1005 | Balance: 48000.0
+Charlie King | Acc: 1004 | Balance: 60000.0
+Bob Taylor | Acc: 1003 | Balance: 40000.0
+Alice Smith | Acc: 1002 | Balance: 45000.0
+John Doe | Acc: 1001 | Balance: 50000.0
+Chris Young | Acc: 1010 | Balance: 42000.0
+Nina Roy | Acc: 1009 | Balance: 41000.0

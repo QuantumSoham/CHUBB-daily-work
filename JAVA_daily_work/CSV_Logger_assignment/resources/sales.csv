@@ -1,0 +1,8 @@
+date,orderId,product,customer,qty,price
+2025-01-05,ORD-1001,Widget A,Alice,2,19.99
+2025-01-07,ORD-1002,Widget B,Bob,1,29.99
+2025-02-02,ORD-1003,Widget A,Charlie,5,19.99
+2025-02-15,ORD-1004,Widget C,Alice,3,9.50
+2025-03-01,ORD-1005,Widget B,Eve,10,29.99
+2025-03-03,ORD-1006,Widget D,Frank,1,199.99
+2025-03-15,ORD-1007,Widget A,Bob,4,19.99

@@ -1,0 +1,9 @@
+INFO [2025-11-12] App started
+INFO [2025-11-12] Loading config
+WARN [2025-11-12] Deprecated API used
+ERROR [2025-11-12] - Failed to connect to DB
+ERROR [2025-11-12] - Failed to connect to DB
+ERROR [2025-11-12] - NullPointer at CsvReportGenerator.parse
+INFO [2025-11-12] Completed job X
+DEBUG [2025-11-12] Verbose trace
+ERROR [2025-11-12] - Failed to connect to DB
